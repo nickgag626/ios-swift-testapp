@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "contentful.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/contentful/contentful.swift",
+      "state" : {
+        "revision" : "cb73112b021b4dc33a8ddb03f87381fddf4e5eab",
+        "version" : "5.5.7"
+      }
+    },
+    {
+      "identity" : "fmdb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ccgus/fmdb",
+      "state" : {
+        "revision" : "61e51fde7f7aab6554f30ab061cc588b28a97d04",
+        "version" : "2.7.7"
+      }
+    },
+    {
+      "identity" : "marky-mark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/M2Mobi/Marky-Mark",
+      "state" : {
+        "revision" : "80d25974a48092f576cbdcbfd91ad2c723fb025e",
+        "version" : "11.0.1"
+      }
+    },
+    {
+      "identity" : "snowplow-ios-tracker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/snowplow/snowplow-ios-tracker",
+      "state" : {
+        "revision" : "48a0d064d2f816fc19d207336572ce29fd009709",
+        "version" : "5.5.0"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-cmark.git",
+      "state" : {
+        "revision" : "29d9c97e6310b87c4799268eaa2fc76164b2dbd8",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "swift-markdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-markdown.git",
+      "state" : {
+        "revision" : "68b2fed9fb12fb71ac81e537f08bed430b189e35",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
